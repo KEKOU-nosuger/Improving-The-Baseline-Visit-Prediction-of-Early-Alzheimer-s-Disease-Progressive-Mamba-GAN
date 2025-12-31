@@ -4,9 +4,8 @@
 
 Fig. 1. Overview of the proposed progressive Mamba GAN. The longitudinal progression learning stage models normative and pathological trajectories from sequential paired PET images. During cross-sectional assessment stage, image representations are extracted from the generated follow-up images.
 
-Installation
-
-requirements:
+**Installati**
+*requirements:*
 Linux
 NVIDIA GPU
 PyTorch 1.12+
